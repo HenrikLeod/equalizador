@@ -1,0 +1,3 @@
+﻿  equalizer.cpp
+c:\users\henrique\desktop\projeto\equalizer\equalizer.h(54): warning C4309: '=': truncamento de valor constante
+  equalizer.vcxproj -> C:\Users\Henrique\Desktop\projeto\Debug\equalizer.exe
